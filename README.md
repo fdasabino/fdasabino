@@ -12,11 +12,11 @@
 
 - 🕺 I’m looking to collaborate on open source projects or paid collaborations. <br/>
 
-- 📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile<br/>
+- 📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
 
-- 💭 Ask me about anything code related, love to help ❤️ <br/>
+- 💭 Ask me about anything code related, love to help. ❤️ <br/>
 
-- 📧 How to reach me **fdasabino@gmail.com**<br/>
+- 📧 How to reach me **fdasabino@gmail.com**.<br/>
 </div>
 
 <br/>
