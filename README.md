@@ -10,7 +10,7 @@
 
 - 🌿 I’m currently learning node. <br/>
 
-- 🕺 I’m looking to collaborate on open source projects or paid collaborations. <br/>
+- 🕺 I’m looking to collaborate on projects so hit me up. <br/>
 
 - 📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
 
