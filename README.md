@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I’m Francisco Sabino </h1>
-<h3 align="left">A passionate frontend developer student from Sweden</h3>
+<h3 align="left">A frontend developer student from Brazil, living in Sweden</h3>
 
 <br/>
 
@@ -21,5 +21,5 @@
 
 <br/>
 <p align="left">
-<a href="https://www.linkedin.com/in/francisco-sabino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francisco-sabino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
