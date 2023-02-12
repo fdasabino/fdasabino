@@ -8,7 +8,7 @@
 </div>
 <div align="left">
 
-- 🌿 I’m currently learning node. <br/>
+- ⚒️ I’m currently working on a E-commerce MERN project. <br/>
 
 - 🕺 I’m looking to collaborate on projects so hit me up. <br/>
 
