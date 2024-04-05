@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I’m Francisco Sabino </h1>
-<h3 align="left">A frontend developer student from Brazil, living in Sweden</h3>
+<h3 align="left">A Frontend Developer from Brazil, living in Sweden</h3>
 
 <br/>
 
@@ -8,15 +8,15 @@
 </div>
 <div align="left">
 
-- 🌿 I’m currently learning node. <br/>
+-   🌿 I’m currently learning node. <br/>
 
-- 🕺 I’m looking to collaborate on projects so hit me up. <br/>
+-   🕺 I’m looking to collaborate on projects so hit me up. <br/>
 
-- 📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
+-   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
 
-- 💭 Ask me about anything code related, love to help. ❤️ <br/>
+-   💭 Ask me about anything code related, love to help. ❤️ <br/>
 
-- 📧 How to reach me **fdasabino@gmail.com**.<br/>
+-   📧 How to reach me **fdasabino@gmail.com**.<br/>
 </div>
 
 <br/>
