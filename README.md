@@ -9,9 +9,7 @@
 </div>
 <div align="left">
 
--   🌿 I’m currently learning Vue. <br/>
-
--   🕺 I’m looking to collaborate on projects so hit me up. <br/>
+-   🕺 I’m looking for that position as a Frontend Developer. <br/>
 
 -   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
 
