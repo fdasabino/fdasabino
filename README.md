@@ -9,8 +9,6 @@
 </div>
 <div align="left">
 
--   🕺 I’m looking for that position as a Frontend Developer. <br/>
-
 -   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
 
 -   💭 Ask me about anything code related, love to help. ❤️ <br/>
