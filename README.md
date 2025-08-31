@@ -20,7 +20,9 @@
 ![fdasabino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fdasabino&theme=radical&hide_border=true)
   
 </div>
+
 <br/>
+<hr/>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-sabino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
