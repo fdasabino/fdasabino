@@ -1,5 +1,5 @@
 <h1 color="#fff" align="left">Hi 👋, I’m Francisco Sabino </h1>
-<h3>Full-stack developer from Brazil, living in Sweden</h3>
+<h3>Full-stack developer from Brazil based in Sweden</h3>
 <br/>
 <hr/>
 <div align="left">
