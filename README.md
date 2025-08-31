@@ -1,7 +1,7 @@
 <h1 color="#fff" align="left">Hi 👋, I’m Francisco Sabino </h1>
 <h3>Full-stack developer from Brazil, living in Sweden</h3>
 <br/>
-
+<hr/>
 <div align="left">
   
   -   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.
