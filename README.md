@@ -20,3 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-sabino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 </p>
+
+<br/>
+
+![fdasabino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdasabino&theme=radical&show_icons=true&hide_border=true&layout=compact)
