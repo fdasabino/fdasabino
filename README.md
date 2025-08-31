@@ -5,6 +5,15 @@
 <br/>
 
 <div align="left">
+
+-   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
+
+-   💭 Ask me about anything code related, love to help. ❤️ <br/>
+
+-   📧 How to reach me **fdasabino@gmail.com**.<br/>
+</div>
+
+<div align="left">
   
 ![fdasabino's Stats](https://github-readme-stats.vercel.app/api?username=fdasabino&theme=radical&show_icons=true&hide_border=true&count_private=true)
   
@@ -13,14 +22,7 @@
 ![fdasabino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdasabino&theme=radical&show_icons=true&hide_border=true&layout=compact)
   
 </div>
-<div align="left">
 
--   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
-
--   💭 Ask me about anything code related, love to help. ❤️ <br/>
-
--   📧 How to reach me **fdasabino@gmail.com**.<br/>
-</div>
 
 <br/>
 <p align="left">
