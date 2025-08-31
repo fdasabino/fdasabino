@@ -1,25 +1,21 @@
 <h1 color="#fff" align="left">Hi 👋, I’m Francisco Sabino </h1>
 <h3 align="left">Frontend Developer</h3>
 <h3>From Brazil, living in Sweden</h3>
-
 <br/>
 
 <div align="left">
-
 -   📃 All of my projects are available at my <a href="https://github.com/fdasabino" target="_blank">Github</a> profile.<br/>
-
 -   💭 Ask me about anything code related, love to help. ❤️ <br/>
-
 -   📧 How to reach me **fdasabino@gmail.com**.<br/>
 </div>
 
 <div align="left">
+
+![fdasabino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdasabino&theme=radical&show_icons=true&hide_border=true&layout=compact)
   
 ![fdasabino's Stats](https://github-readme-stats.vercel.app/api?username=fdasabino&theme=radical&show_icons=true&hide_border=true&count_private=true)
   
 ![fdasabino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fdasabino&theme=radical&hide_border=true)
-
-![fdasabino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdasabino&theme=radical&show_icons=true&hide_border=true&layout=compact)
   
 </div>
 
