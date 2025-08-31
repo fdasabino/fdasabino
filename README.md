@@ -5,7 +5,10 @@
 <br/>
 
 <div align="center">
-<img width="400" alt="guy" in a rolling chair” align="right" src="https://res.cloudinary.com/frank2021/image/upload/v1675172118/portfolio/pngwing.com_fszt7p.png">
+![fdasabino's Stats](https://github-readme-stats.vercel.app/api?username=fdasabino&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![fdasabino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fdasabino&theme=radical&hide_border=true)
+![fdasabino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdasabino&theme=radical&show_icons=true&hide_border=true&layout=compact)
+  
 </div>
 <div align="left">
 
@@ -23,4 +26,3 @@
 
 <br/>
 
-![fdasabino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fdasabino&theme=radical&show_icons=true&hide_border=true&layout=compact)
