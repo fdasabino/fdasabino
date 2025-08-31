@@ -1,6 +1,6 @@
 <h1 color="#fff" align="left">Hi 👋, I’m Francisco Sabino </h1>
 <h3>Full-stack developer from Brazil based in Sweden</h3>
-<h4>Teacher for the Gymnasieingenjör / TE-4 program @<a href="https://ntigymnasiet.se/sodertorn/" target="_blank">NTI Gymnasiet
+<h4>Teacher for the Gymnasieingenjör / TE-4 program @<a href="https://ntigymnasiet.se/sodertorn/" target="_blank" rel="noopener noreferrer">NTI Gymnasiet
 Södertörn</a></h3>
 <br/>
 <hr/>
