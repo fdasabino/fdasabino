@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I’m Francisco Sabino</h1>
-<h3 align="left">🌍 Full-stack Developer from Brazil 🇧🇷, based in Sweden 🇸🇪</h3>
+<h3 align="left">🌍 Full-stack Developer from Brazil 🇧🇷 based in Sweden 🇸🇪</h3>
 <h4 align="left">👨‍🏫 Teacher for the Gymnasieingenjör / TE-4 program @ 
 <a href="https://ntigymnasiet.se/sodertorn/" target="_blank" rel="noopener noreferrer">NTI Gymnasiet Södertörn</a>
 </h4>
